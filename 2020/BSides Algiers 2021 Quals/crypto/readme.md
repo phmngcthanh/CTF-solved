@@ -2,11 +2,12 @@ So, when we netcat the server, we got this:
 
 ![](1.png)
 
-So, we have to get the flag somehow, using the input
+We have to type something, and it will get it+flag encrypted with AES-ECB
 
 ### In case you’re not familiar with ECB,you can [read it here](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_codebook_(ECB))
 
-So, basically it will encrypt/decrypt each block seperately. So, if you have two
+
+So,basically the AES-ECB will encrypt/decrypt each block seperately. For example,if you have two
 blocks with same content, it will be the same after encrypt using ECB with same
 key.
 
