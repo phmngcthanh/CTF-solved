@@ -1,0 +1,1350 @@
+
+Host  : .1rx.io ( / )
+Name  : _rxuuid
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: %7B%22rx_uuid%22%3A%22RX-d4813066-7346-408d-b920-f239673d74e8-004%22%2C%22nxtrdr%22%3Afalse%7D
+
+Host  : .adform.net ( / )
+Name  : uid
+Dates : 7/29/2020 1:40:30 PM -> 9/27/2020 1:40:39 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 7616571476576145378
+
+Host  : .adhigh.net ( / )
+Name  : gi_u
+Dates : 7/29/2020 1:40:41 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 8blAMLC33Rc.AikABlFzmU0sOw
+
+Host  : .adnxs.com ( / )
+Name  : anj
+Dates : 7/29/2020 1:40:29 PM -> 10/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: dTM7k!M4/8Erk#WF']wIg2C''L/m>Q!@wnf-Te9(>wL5Li+A!-!4W[N6[O0`
+
+Host  : .adnxs.com ( / )
+Name  : icu
+Dates : 7/29/2020 1:40:30 PM -> 10/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: ChgI2ZJgEAoYAiACKAIwy7OE-QU4AkACSAIQy7OE-QUYAQ..
+
+Host  : .adnxs.com ( / )
+Name  : uuid2
+Dates : 7/29/2020 1:40:29 PM -> 10/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 5591583843790272988
+
+Host  : .adsrvr.org ( / )
+Name  : TDCPM
+Dates : 7/29/2020 1:40:41 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: CAESFQoGYWRhcHR2EgsIuqz044jl2TgQBRIXCghwdWJtYXRpYxILCOTEpuCI5dk4EAUSFQoGZ29vZ2xlEgsIxM-90onl2TgQBRgBIAMoAjILCKqUvemf5dk4EAU4AVoHYWRxamdtbGAC
+
+Host  : .adsrvr.org ( / )
+Name  : TDID
+Dates : 7/29/2020 1:40:28 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 31ae94df-d55c-4daa-b172-e66a2a6d96e5
+
+Host  : .advertising.com ( / )
+Name  : APID
+Dates : 7/29/2020 1:40:28 PM -> 7/30/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: UP59096a0b-d166-11ea-a676-06aa0ac182e8
+
+Host  : .agkn.com ( / )
+Name  : ab
+Dates : 7/29/2020 1:40:38 PM -> 7/29/2021 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0001%3A5Zw12nHdncfPeQ14QXCa5qkXSVeJhMti
+
+Host  : .agkn.com ( / )
+Name  : u
+Dates : 7/29/2020 1:40:40 PM -> 7/29/2021 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: C|0CAAms9ZUJrPWVgAAAAABAQpAAAAAAA
+
+Host  : .amcdn.vn ( / )
+Name  : __C
+Dates : 7/29/2020 1:40:37 PM -> 7/29/2020 2:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0_1596004819
+
+Host  : .amcdn.vn ( / )
+Name  : __create
+Dates : 7/29/2020 1:40:31 PM -> 7/28/2025 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004813
+
+Host  : .amcdn.vn ( / )
+Name  : __uid
+Dates : 7/29/2020 1:40:32 PM -> 7/28/2025 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 4496004813860861653
+
+Host  : .analytics.yahoo.com ( / )
+Name  : IDSYNC
+Dates : 7/29/2020 1:40:29 PM -> 7/30/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: "1769~1sri:187s~1sri"
+
+Host  : .aniview.com ( / )
+Name  : 2_C_1
+Dates : 7/29/2020 1:40:30 PM -> 8/8/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: B9DB3A1D-7DAF-4BC4-B268-C08C7CBA12CF
+
+Host  : .aniview.com ( / )
+Name  : aniC
+Dates : 7/29/2020 1:40:28 PM -> 8/8/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004809401-993063779859-007312-009-006214
+
+Host  : .bidswitch.net ( / )
+Name  : c
+Dates : 7/29/2020 1:40:28 PM -> 7/29/2021 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004810
+
+Host  : .bidswitch.net ( / )
+Name  : google_push
+Dates : 7/29/2020 1:40:41 PM -> 7/29/2020 1:45:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: AQvitUIi7--VlCdVnvwqPAbZtuisbdaxIJ2VuZTGYxcFaUlY7YiwwsXfMI0dWMAtateVZ7gv3wTSN4lJ-hWByM0ZaTuOAtk0UYk
+
+Host  : .bidswitch.net ( / )
+Name  : tuuid
+Dates : 7/29/2020 1:40:28 PM -> 7/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: feca3cc6-6a6d-4d7a-b0aa-36a758eadc6a
+
+Host  : .bidswitch.net ( / )
+Name  : tuuid_lu
+Dates : 7/29/2020 1:40:28 PM -> 7/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004810
+
+Host  : .bing.com ( / )
+Name  : MUID
+Dates : 7/29/2020 1:39:41 PM -> 8/23/2021 1:39:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2813FDA6F17E6A362D99F2B0F0C96B6C
+
+Host  : .bing.com ( / )
+Name  : _EDGE_S
+Dates : 7/29/2020 1:39:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: F=1&SID=3A5797AEF10C62370CA798B8F0BB6347
+
+Host  : .bing.com ( / )
+Name  : _EDGE_V
+Dates : 7/29/2020 1:39:41 PM -> 8/23/2021 1:39:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .c.appier.net ( / )
+Name  : _auid
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: XPz2N5xKAEOEKcNkyhkhXw
+
+Host  : .c.bing.com ( / )
+Name  : SRM_M
+Dates : 7/29/2020 1:39:33 PM -> 8/23/2021 1:39:34 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2FF7D69E97EC6AB22858D988965B6B7F
+
+Host  : .c.msn.com ( / )
+Name  : ANONCHK
+Dates : 7/29/2020 1:39:33 PM -> 7/29/2020 1:49:34 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .c.msn.com ( / )
+Name  : SM
+Dates : 7/29/2020 1:39:33 PM
+ * using BCrypt with AES-256-GCM
+Cookie: C
+
+Host  : .casalemedia.com ( / )
+Name  : CMID
+Dates : 7/29/2020 1:40:30 PM -> 7/29/2021 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: XyEZy4sFVVQAACrGZCcAAAB3
+
+Host  : .casalemedia.com ( / )
+Name  : CMPRO
+Dates : 7/29/2020 1:40:30 PM -> 10/27/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 9956
+
+Host  : .casalemedia.com ( / )
+Name  : CMPS
+Dates : 7/29/2020 1:40:30 PM -> 10/27/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 4764
+
+Host  : .casalemedia.com ( / )
+Name  : CMST
+Dates : 7/29/2020 1:40:38 PM -> 7/30/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: XyEZy18hGdQA
+
+Host  : .contextweb.com ( / )
+Name  : V
+Dates : 7/29/2020 1:40:29 PM -> 7/24/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: aj9v5XM7fFUw
+
+Host  : .crwdcntrl.net ( / )
+Name  : _cc_aud
+Dates : 7/29/2020 1:40:20 PM -> 4/25/2021 1:40:20 PM
+ * using BCrypt with AES-256-GCM
+Cookie: "ABR4nGNgYGCIV5Q8xAAHABBzAVw%3D"
+
+Host  : .crwdcntrl.net ( / )
+Name  : _cc_cc
+Dates : 7/29/2020 1:40:20 PM -> 4/25/2021 1:40:20 PM
+ * using BCrypt with AES-256-GCM
+Cookie: "ACZ4nGNQSE4zMLC0sEhKTjUxTTO1SDQ3TElJTUozt0yzNDdISzZhAIJ4RclDDAgAAGWOCuU%3D"
+
+Host  : .crwdcntrl.net ( / )
+Name  : _cc_dc
+Dates : 7/29/2020 1:40:20 PM -> 4/25/2021 1:04:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2
+
+Host  : .crwdcntrl.net ( / )
+Name  : _cc_id
+Dates : 7/29/2020 1:40:20 PM -> 4/25/2021 1:04:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: cf00988bce45f58a71ddebf79f970fc4
+
+Host  : .ctnsnet.com ( / )
+Name  : cid_3ccee64b103b4f87a70f1f451c0b8ee4
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .dnacdn.net ( / )
+Name  : browser_data
+Dates : 7/29/2020 1:40:23 PM -> 8/23/2021 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: L59I3F9kMmVzbEJ4S1dYbWV6YkIzUmxjJTJCRDNZMSUyRld6S0daMlclMkJOYzFkeWJxSW1SZE1DcnhwOG9SR2t6anNsZGt0JTJCZEY2dEFKZ0FVSTUzdGpocktLJTJGYkZSTkElM0QlM0Q
+
+Host  : .doubleclick.net ( / )
+Name  : DSID
+Dates : 7/29/2020 1:40:25 PM -> 7/29/2020 2:40:25 PM
+ * using BCrypt with AES-256-GCM
+Cookie: NO_DATA
+
+Host  : .doubleclick.net ( / )
+Name  : IDE
+Dates : 7/29/2020 1:40:24 PM -> 7/29/2022 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: AHWqTUl0e0fV6_q90DDG7dZMoP5WsCfZeG5z3tCL6B8P9QqhJcoQisaSEO4q2tRK
+
+Host  : .dyntrk.com ( / )
+Name  : dyn_u
+Dates : 7/29/2020 1:40:41 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 381_5f2119d73ff61
+
+Host  : .eclick.vn ( / )
+Name  : fosp_aid
+Dates : 7/29/2020 1:40:23 PM -> 7/29/2021 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: hfpz46kinjh9z7gp.1596004815
+
+Host  : .eclick.vn ( / )
+Name  : orig_aid
+Dates : 7/29/2020 1:40:23 PM -> 7/29/2021 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: hfpz46kinjh9z7gp.1596004815
+
+Host  : .google.com ( / )
+Name  : NID
+Dates : 7/29/2020 1:40:19 PM -> 1/28/2021 1:40:19 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 204=yEpn544VHxEw6i4exbWS-MaRYi2m7n-K-LQ-kj74WpcjbPSGLMpSkTLYGMoZQw1d8Z6WD8rgqoLKbY3CHA1wjDE5zvStKRoDqgJqMrRCigYq2uADqQj8jwARaGzOoHJnxTWjkiLYZGey3RE21J7eCLZk3NYq2X8ZSXcs8iW6-ZE
+
+Host  : .innovid.com ( / )
+Name  : uuid
+Dates : 7/29/2020 1:40:40 PM -> 10/27/2020 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 6dffc181-a33e-4c8c-901f-33a5ad691c91-20200729 02:40:22
+
+Host  : .isseclab-udayton.github.io ( / )
+Name  : _ga
+Dates : 7/29/2020 1:41:14 PM -> 7/29/2022 1:41:14 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.3.771802099.1596004874
+
+Host  : .isseclab-udayton.github.io ( / )
+Name  : _gat_gtag_UA_143000129_1
+Dates : 7/29/2020 1:41:14 PM -> 7/29/2020 1:42:14 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .isseclab-udayton.github.io ( / )
+Name  : _gid
+Dates : 7/29/2020 1:41:14 PM -> 7/30/2020 1:41:14 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.3.108749326.1596004874
+
+Host  : .kenh14.vn ( / )
+Name  : __gads
+Dates : 7/29/2020 1:40:38 PM -> 7/29/2022 1:40:19 PM
+ * using BCrypt with AES-256-GCM
+Cookie: ID=2b110a66bc751cbb:T=1596004819:S=ALNI_MZylDbleAriZGnm4FxWH9JHqan6vw
+
+Host  : .kenh14.vn ( / )
+Name  : __utma
+Dates : 7/29/2020 1:40:31 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 54548145.1623377691.1596004832.1596004832.1596004832.1
+
+Host  : .kenh14.vn ( / )
+Name  : __utmb
+Dates : 7/29/2020 1:40:37 PM -> 7/29/2020 2:10:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 54548145.2.10.1596004832
+
+Host  : .kenh14.vn ( / )
+Name  : __utmc
+Dates : 7/29/2020 1:40:31 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 54548145
+
+Host  : .kenh14.vn ( / )
+Name  : __utmt
+Dates : 7/29/2020 1:40:31 PM -> 7/29/2020 1:50:31 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .kenh14.vn ( / )
+Name  : __utmz
+Dates : 7/29/2020 1:40:31 PM -> 1/28/2021 1:40:37 AM
+ * using BCrypt with AES-256-GCM
+Cookie: 54548145.1596004832.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+Host  : .kenh14.vn ( / )
+Name  : _ga
+Dates : 7/29/2020 1:40:31 PM -> 7/29/2022 1:40:42 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.2.1623377691.1596004832
+
+Host  : .kenh14.vn ( / )
+Name  : _gat_UA-80924309-6
+Dates : 7/29/2020 1:40:31 PM -> 7/29/2020 1:41:31 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .kenh14.vn ( / )
+Name  : _gid
+Dates : 7/29/2020 1:40:31 PM -> 7/30/2020 1:40:42 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.2.2110231196.1596004832
+
+Host  : .kenh14.vn ( / )
+Name  : _uidcms
+Dates : 7/29/2020 1:40:32 PM -> 4/12/2026 9:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004832542206172
+
+Host  : .lg.nanda.vn ( / )
+Name  : __create
+Dates : 7/29/2020 1:40:32 PM -> 7/28/2025 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004813
+
+Host  : .lg.nanda.vn ( / )
+Name  : __uid
+Dates : 7/29/2020 1:40:32 PM -> 7/28/2025 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 6096004813860861653
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__C
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 123
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__CRT
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004813
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__IP
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 860861653
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__R
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__RC
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 123
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__UF
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: -1
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__tb
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .lg1.logging.admicro.vn ( / )
+Name  : ads_store%3A__uid
+Dates : 7/29/2020 1:40:36 PM -> 7/29/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2496004813860861653
+
+Host  : .lijit.com ( / )
+Name  : ljt_reader
+Dates : 7/29/2020 1:40:24 PM -> 7/29/2021 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 7311ffd5e04c04a9d11b9d88
+
+Host  : .lijit.com ( / )
+Name  : ljtrtb
+Dates : 7/29/2020 1:40:24 PM -> 7/29/2021 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: eJyrrgUAAXUA%2BQ%3D%3D
+
+Host  : .logging.admicro.vn ( / )
+Name  : __C
+Dates : 7/29/2020 1:40:32 PM -> 7/29/2020 2:10:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 123_1596004814
+
+Host  : .logging.admicro.vn ( / )
+Name  : __NM
+Dates : 7/29/2020 1:40:35 PM -> 7/29/2020 2:10:35 PM
+ * using BCrypt with AES-256-GCM
+Cookie: -1
+
+Host  : .logging.admicro.vn ( / )
+Name  : __OS
+Dates : 7/29/2020 1:40:35 PM -> 7/29/2020 2:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: "10_Windows 10_ _ _14_84.0.4147.89__0"
+
+Host  : .logging.admicro.vn ( / )
+Name  : __create
+Dates : 7/29/2020 1:40:32 PM -> 7/28/2025 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004813
+
+Host  : .logging.admicro.vn ( / )
+Name  : __tb
+Dates : 7/29/2020 1:40:32 PM -> 7/30/2020 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .logging.admicro.vn ( / )
+Name  : __uid
+Dates : 7/29/2020 1:40:32 PM -> 7/28/2025 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2496004813860861653
+
+Host  : .logging.admicro.vn ( / )
+Name  : linfo
+Dates : 7/29/2020 1:40:32 PM -> 7/29/2020 2:10:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 123_1596004814
+
+Host  : .logging.admicro.vn ( / )
+Name  : uinfo
+Dates : 7/29/2020 1:40:32 PM -> 7/30/2020 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: -1
+
+Host  : .mathtag.com ( / )
+Name  : mt_mop
+Dates : 7/29/2020 1:40:41 PM -> 8/28/2020 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 4:1596004822
+
+Host  : .mathtag.com ( / )
+Name  : uuid
+Dates : 7/29/2020 1:40:29 PM -> 8/26/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: e84e5f21-19ca-4d00-b052-21ccf2a186a9
+
+Host  : .mookie1.com ( / )
+Name  : id
+Dates : 7/29/2020 1:40:38 PM -> 8/28/2021 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 10530471460488221500
+
+Host  : .mookie1.com ( / )
+Name  : mdata
+Dates : 7/29/2020 1:40:38 PM -> 8/28/2021 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1|10530471460488221500|1596004820070
+
+Host  : .mookie1.com ( / )
+Name  : ov
+Dates : 7/29/2020 1:40:38 PM -> 8/28/2021 1:40:40 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 762294ca377259f2453a5325359e00e1
+
+Host  : .msn.com ( / )
+Name  : MC1
+Dates : 7/29/2020 1:39:51 PM -> 7/29/2021 1:39:52 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GUID=43a128052ef645d2976a9f18c51f2f1a&HASH=43a1&LV=202007&V=4&LU=1596004772355
+
+Host  : .msn.com ( / )
+Name  : MS0
+Dates : 7/29/2020 1:39:51 PM -> 7/29/2020 2:09:52 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 26dea45f83eb49fb92e3c9cd8454edea
+
+Host  : .msn.com ( / )
+Name  : MUID
+Dates : 7/29/2020 1:39:33 PM -> 8/23/2021 1:39:34 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2FF7D69E97EC6AB22858D988965B6B7F
+
+Host  : .msn.com ( / )
+Name  : _EDGE_S
+Dates : 7/29/2020 1:39:20 PM
+ * using BCrypt with AES-256-GCM
+Cookie: F=1
+
+Host  : .msn.com ( / )
+Name  : _EDGE_V
+Dates : 7/29/2020 1:39:20 PM -> 8/23/2021 1:39:21 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .msn.com ( / )
+Name  : anoncknm
+Dates : 7/29/2020 1:39:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie:
+
+Host  : .msn.com ( / )
+Name  : ecasession
+Dates : 7/29/2020 1:40:20 PM -> 7/29/2020 2:40:48 PM
+ * using BCrypt with AES-256-GCM
+Cookie: v2_1a008f5456823e34f85b582b19fb68b7_2FF7D69E97EC6AB22858D988965B6B7F_1596004765_1596004801_CNawjgYQsORKGMeJwpGxnMrB4QEgAygFMOEBOKfyDUCljRBI77LaA1C7tTJYAGAAaLiT0Pavi-XVYw
+
+Host  : .msn.com ( / )
+Name  : pglt-microsoftNews-msnews
+Dates : 7/29/2020 1:39:54 PM -> 1/27/2021 1:39:54 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 11
+
+Host  : .nrich.ai ( / )
+Name  : _nauid
+Dates : 7/29/2020 1:40:29 PM -> 1/20/2022 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: e35da7d9-dda6-4748-835b-4342bad684e0
+
+Host  : .openx.net ( / )
+Name  : i
+Dates : 7/29/2020 1:40:28 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0a53aa08-1c85-03b7-2f17-b47650b0ac1a|1596004810
+
+Host  : .openx.net ( / )
+Name  : pd
+Dates : 7/29/2020 1:40:41 PM -> 8/13/2020 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: v2|1596004810.12|vO.jE
+
+Host  : .pubmatic.com ( / )
+Name  : DPSync3
+Dates : 7/29/2020 1:40:28 PM -> 10/27/2020 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1597190400%3A201_200%7C1596585600%3A164%7C1596067200%3A174
+
+Host  : .pubmatic.com ( / )
+Name  : KADUSERCOOKIE
+Dates : 7/29/2020 1:40:27 PM -> 10/27/2020 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: B9DB3A1D-7DAF-4BC4-B268-C08C7CBA12CF
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_1051
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 22884-18072662215669745237
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_107
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1471-uid:6LPhEnc31K0FL45
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_1159
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 23138-3ccee64b103b4f87a70f1f451c0b8ee4
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_153
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 19420-r2Fgg6s-MdC3NTCA_2R_h_9hYIe3ZGeArTbjg_5y&KRTB&22979-r2Fgg6s-MdC3NTCA_2R_h_9hYIe3ZGeArTbjg_5y
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_27
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 16735-uid:6ba35f21-19ca-4900-8223-1f7cf615310e&KRTB&16736-uid:6ba35f21-19ca-4900-8223-1f7cf615310e&KRTB&23019-uid:6ba35f21-19ca-4900-8223-1f7cf615310e&KRTB&23114-uid:6ba35f21-19ca-4900-8223-1f7cf615310e
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_377
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 22918-31ae94df-d55c-4daa-b172-e66a2a6d96e5&KRTB&23031-31ae94df-d55c-4daa-b172-e66a2a6d96e5
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_391
+Dates : 7/29/2020 1:40:30 PM -> 8/28/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 22924-7616571476576145378
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_466
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 16530-feca3cc6-6a6d-4d7a-b0aa-36a758eadc6a&KRTB&16532-feca3cc6-6a6d-4d7a-b0aa-36a758eadc6a
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_57
+Dates : 7/29/2020 1:40:30 PM -> 10/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 22776-5591583843790272988
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_80
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 16514-CAESEDwOlzjOLBlPROIn5SaCHvg&KRTB&22987-CAESEDwOlzjOLBlPROIn5SaCHvg&KRTB&23025-CAESEDwOlzjOLBlPROIn5SaCHvg
+
+Host  : .pubmatic.com ( / )
+Name  : KRTBCOOKIE_904
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 16787-XPz2N5xKAEOEKcNkyhkhXw&KRTB&23130-XPz2N5xKAEOEKcNkyhkhXw
+
+Host  : .pubmatic.com ( / )
+Name  : KTPCACOOKIE
+Dates : 7/29/2020 1:40:27 PM -> 10/27/2020 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: YES
+
+Host  : .pubmatic.com ( / )
+Name  : PUBMDCID
+Dates : 7/29/2020 1:40:30 PM -> 10/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3
+
+Host  : .pubmatic.com ( / )
+Name  : PugT
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004811
+
+Host  : .pubmatic.com ( / )
+Name  : SPugT
+Dates : 7/29/2020 1:40:30 PM -> 8/28/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004811
+
+Host  : .pubmatic.com ( / )
+Name  : SyncRTB3
+Dates : 7/29/2020 1:40:28 PM -> 10/27/2020 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1597276800%3A35%7C1601164800%3A69%7C1596585600%3A2_67%7C1597190400%3A179_78_3_223_218_7_99_54_71_96_21_56_204_189_8_13_107_5_86_220_176_209_52_22%7C1596844800%3A63
+
+Host  : .pubmatic.com ( / )
+Name  : chkChromeAb67Sec
+Dates : 7/29/2020 1:40:28 PM -> 10/27/2020 1:40:28 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3
+
+Host  : .quantserve.com ( / )
+Name  : d
+Dates : 7/29/2020 1:40:38 PM -> 10/27/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: EPoBDgGDIYEO-TA
+
+Host  : .quantserve.com ( / )
+Name  : mc
+Dates : 7/29/2020 1:40:29 PM -> 8/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 5f2119cb-2b2ec-5ef25-c5271
+
+Host  : .rlcdn.com ( / )
+Name  : pxrc
+Dates : 7/29/2020 1:40:30 PM -> 9/27/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: CMuzhPkFEgUI6AcQABIFCOhHEAA=
+
+Host  : .rlcdn.com ( / )
+Name  : rlas3
+Dates : 7/29/2020 1:40:30 PM -> 7/29/2021 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: B6Kh7pa2sgPXaHto/PtCV9MWwsbu/CXjbeW4/2KTZkk=
+
+Host  : .scorecardresearch.com ( / )
+Name  : UID
+Dates : 7/29/2020 1:39:33 PM -> 7/19/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 18A23a19246a54a3265c18g1596004754
+
+Host  : .scorecardresearch.com ( / )
+Name  : UIDR
+Dates : 7/29/2020 1:39:33 PM -> 7/19/2022 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004754
+
+Host  : .simpli.fi ( / )
+Name  : suid
+Dates : 7/29/2020 1:40:29 PM -> 7/30/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2C67B215DF19496CB96452A7C0438292
+
+Host  : .simpli.fi ( / )
+Name  : suid_legacy
+Dates : 7/29/2020 1:40:29 PM -> 7/30/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2C67B215DF19496CB96452A7C0438292
+
+Host  : .sitescout.com ( / )
+Name  : _ssum
+Dates : 7/29/2020 1:40:40 PM -> 8/28/2020 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: e30
+
+Host  : .sitescout.com ( / )
+Name  : ssi
+Dates : 7/29/2020 1:40:40 PM -> 7/29/2021 1:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 37e4133c-d65f-443a-96c9-8ba03cadab55#1596004821667
+
+Host  : .spotxchange.com ( / )
+Name  : audience
+Dates : 7/29/2020 1:40:30 PM -> 7/29/2021 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 5a1e6375-d166-11ea-8cc5-169d53a90007
+
+Host  : .surfcountor.com ( / )
+Name  : __create
+Dates : 7/29/2020 1:40:35 PM -> 7/28/2025 1:40:46 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004816
+
+Host  : .surfcountor.com ( / )
+Name  : __uid
+Dates : 7/29/2020 1:40:35 PM -> 7/28/2025 1:40:46 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 6196004816860861653
+
+Host  : .taboola.com ( / )
+Name  : t_gid
+Dates : 7/29/2020 1:40:04 PM -> 7/29/2021 1:40:25 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2f159913-d173-47d1-999f-a72653a613e6-tuct61a9f31
+
+Host  : .taboola.com ( /fptonline-vn/ )
+Name  : taboola_session_id
+Dates : 7/29/2020 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: v2_4daae1075edacfe81318cc3b693718fd_2f159913-d173-47d1-999f-a72653a613e6-tuct61a9f31_1596004801_1596004805_CIi3jgYQxepKGJvqs8q5LiACKAMwwAE4t4gNQOKaEEjXiNcDUP___________wFYAGAAaLiT0Pavi-XVYw
+
+Host  : .tapad.com ( / )
+Name  : TapAd_DID
+Dates : 7/29/2020 1:40:29 PM -> 9/27/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 59de4637-d166-11ea-8e6f-baa8fb5866ad
+
+Host  : .tapad.com ( / )
+Name  : TapAd_TS
+Dates : 7/29/2020 1:40:29 PM -> 9/27/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004811283
+
+Host  : .tribalfusion.com ( / )
+Name  : ANON_ID
+Dates : 7/29/2020 1:40:29 PM -> 10/27/2020 1:40:31 PM
+ * using BCrypt with AES-256-GCM
+Cookie: aTntmINj6WloyhURALhGSAB0r3wSTQwv9mx9mFfTK8KTfdSCn9V57GkCDkKYtRp9eZckZcKXsZasr1iHjPNiAMfxkqi
+
+Host  : .tribalfusion.com ( / )
+Name  : ANON_ID_old
+Dates : 7/29/2020 1:40:29 PM -> 10/27/2020 1:40:31 PM
+ * using BCrypt with AES-256-GCM
+Cookie: aTntmINj6WloyhURALhGSAB0r3wSTQwv9mx9mFfTK8KTfdSCn9V57GkCDkKYtRp9eZckZcKXsZasr1iHjPNiAMfxkqi
+
+Host  : .vietid.net ( / )
+Name  : PHPSESSID
+Dates : 7/29/2020 1:40:38 PM -> 8/12/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie: brc2m1m503gnsmskrbjnlhu733
+
+Host  : .vnexpress.net ( / )
+Name  : __gads
+Dates : 7/29/2020 1:40:24 PM -> 7/29/2022 1:40:05 PM
+ * using BCrypt with AES-256-GCM
+Cookie: ID=f1756145bc3cbdbb-22754e2abac20099:T=1596004805:S=ALNI_MZNImW7wXLiXdRNheEscE7UrAFcDA
+
+Host  : .vnexpress.net ( / )
+Name  : _dc_gtm_UA-169340704-2
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _dc_gtm_UA-169340704-8
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _dc_gtm_UA-169396501-9
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 1:41:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _dc_gtm_UA-50285069-28
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _ga
+Dates : 7/29/2020 1:40:14 PM -> 7/29/2022 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.2.1092275297.1596004815
+
+Host  : .vnexpress.net ( / )
+Name  : _gaexp
+Dates : 7/29/2020 1:40:15 PM -> 10/7/2020 7:00:00 AM
+ * using BCrypt with AES-256-GCM
+Cookie: GAX1.2.RhqB8x-nQIOylVjPCX3U1g.18542.2
+
+Host  : .vnexpress.net ( / )
+Name  : _gat_UA-169360081-2
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 1:41:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _gat_UA-169360081-3
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 1:41:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _gat_UA-50285069-28
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 1:41:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _gat_t3
+Dates : 7/29/2020 1:40:17 PM -> 7/29/2020 1:41:17 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : _gid
+Dates : 7/29/2020 1:40:14 PM -> 7/30/2020 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: GA1.2.25132628.1596004815
+
+Host  : .vnexpress.net ( / )
+Name  : _pk_cvar
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 2:10:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: %7B%224%22%3A%5B%22fosp_aid%22%2C%22hfpz46kinjh9z7gp.1596004815%22%5D%2C%227%22%3A%5B%22fosp_aid_bk%22%2C%22hfpz46kinjh9z7gp.1596004815%22%5D%2C%228%22%3A%5B%22eatv%22%2C%2228-03-2014%22%5D%2C%229%22%3A%5B%22fosp_session%22%2C%22zhzk1t1v1y2021zn1yzl2121zgzn1u20zdzizmzqzlzjzjznzkzqzlzdzizdzizmzqzlzjzjznzkzqzlzdzizmzqzlzjzjznzkzqzlzdzizdzjzdzjzdzezdzg%22%5D%2C%2210%22%3A%5B%22fosp_gender%22%2C%220%22%5D%7D
+
+Host  : .vnexpress.net ( / )
+Name  : _pk_id
+Dates : 7/29/2020 1:40:23 PM -> 7/29/2022 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 35a39161c1dc7486.1596004815.1.1596004824.1596004815.
+
+Host  : .vnexpress.net ( / )
+Name  : _pk_ses
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 2:10:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: *
+
+Host  : .vnexpress.net ( / )
+Name  : _ym_d
+Dates : 7/29/2020 1:40:17 PM -> 7/29/2021 1:40:17 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004818
+
+Host  : .vnexpress.net ( / )
+Name  : _ym_isad
+Dates : 7/29/2020 1:40:18 PM -> 7/30/2020 9:40:18 AM
+ * using BCrypt with AES-256-GCM
+Cookie: 2
+
+Host  : .vnexpress.net ( / )
+Name  : _ym_uid
+Dates : 7/29/2020 1:40:17 PM -> 7/29/2021 1:40:17 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004818626886538
+
+Host  : .vnexpress.net ( / )
+Name  : _ym_visorc_62978707
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 2:10:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: b
+
+Host  : .vnexpress.net ( / )
+Name  : cto_bundle
+Dates : 7/29/2020 1:40:23 PM -> 8/23/2021 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3_e7tl9kMmVzbEJ4S1dYbWV6YkIzUmxjJTJCRDlyZ01Bd09ONnV1SUMxb29tdE9rbXRBJTJCNVpVJTJCZjJCbjJMRThlRGZvSTZZU2RTQ3R0SndVZiUyQm5LUUt2U3hYN1Y3MklMJTJGTEZSMmY0V3dYV1VKbyUyQnF3ZWh2MDJ5TmRzNmc4ZHROcmwwN3Zncw
+
+Host  : .vnexpress.net ( / )
+Name  : device_env
+Dates : 7/29/2020 1:40:14 PM -> 7/29/2020 9:40:14 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 4
+
+Host  : .vnexpress.net ( / )
+Name  : display_cpd
+Dates : 7/29/2020 1:40:23 PM -> 7/29/2020 2:00:00 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_aid
+Dates : 7/29/2020 1:40:15 PM -> 7/28/2021 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: hfpz46kinjh9z7gp.1596004815
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_country
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie:
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_gender
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_isp
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_loc
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0-0-
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_location
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .vnexpress.net ( / )
+Name  : fosp_location_zone
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2022 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : .vnexpress.net ( / )
+Name  : login_system
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2021 6:40:15 AM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .vnexpress.net ( / )
+Name  : orig_aid
+Dates : 7/29/2020 1:40:15 PM -> 7/28/2021 1:40:15 PM
+ * using BCrypt with AES-256-GCM
+Cookie: hfpz46kinjh9z7gp.1596004815
+
+Host  : .vnexpress.net ( / )
+Name  : sw_version
+Dates : 7/29/2020 1:40:14 PM -> 8/5/2020 1:40:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : .w55c.net ( / )
+Name  : matchpubmatic
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 5
+
+Host  : .w55c.net ( / )
+Name  : wfivefivec
+Dates : 7/29/2020 1:40:29 PM -> 8/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 6LPhEnc31K0FL45
+
+Host  : .www.msn.com ( / )
+Name  : OvrlyTrf
+Dates : 7/29/2020 1:39:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: OffNet
+
+Host  : .www.msn.com ( / )
+Name  : ecadprovider
+Dates : 7/29/2020 1:39:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 30
+
+Host  : .www.msn.com ( / )
+Name  : isdomainmigrated
+Dates : 7/29/2020 1:39:20 PM -> 1/25/2021 1:39:21 PM
+ * using BCrypt with AES-256-GCM
+Cookie: true
+
+Host  : .yahoo.com ( / )
+Name  : A3
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 7:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: d=AQABBMoZIV8CELbi5tS3t-jhuOkoOFRSsV4FEgEBAQFrIl8qXwAAAAAA_SMAAAcIyhkhX1RSsV4&S=AQAAAvP9KQmUWQeZStdGv3-Txwk
+
+Host  : .yahoo.com ( / )
+Name  : APID
+Dates : 7/29/2020 1:40:29 PM -> 1/1/2021 7:00:17 AM
+ * using BCrypt with AES-256-GCM
+Cookie: UP59096a0b-d166-11ea-a676-06aa0ac182e8
+
+Host  : .yahoo.com ( / )
+Name  : APIDTS
+Dates : 7/29/2020 1:40:29 PM -> 7/30/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004811
+
+Host  : .yahoo.com ( / )
+Name  : B
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 7:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 5tcaiahfi26ea&b=3&s=51
+
+Host  : .yahoo.com ( / )
+Name  : GUC
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 7:40:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: AQEBAQFfImtfKkIg0ASd
+
+Host  : .yandex.ru ( / )
+Name  : i
+Dates : 7/29/2020 1:40:18 PM -> 7/27/2030 1:40:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: IBuenYUdNOMOPRUejDXjlSF5ToyVT7oHkPvaupSsr79iPmeELuNOC2VzLAw1HCU4AdU8S4CcK7s0bU/k02GJmGLpsQs=
+
+Host  : .yandex.ru ( / )
+Name  : yandexuid
+Dates : 7/29/2020 1:40:18 PM -> 7/27/2030 1:40:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3729253741596004799
+
+Host  : .yandex.ru ( / )
+Name  : ymex
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2021 1:40:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1911364799.yrts.1596004799#1911364799.yrtsi.1596004799
+
+Host  : .yandex.ru ( / )
+Name  : yuidss
+Dates : 7/29/2020 1:40:18 PM -> 7/27/2030 1:40:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3729253741596004799
+
+Host  : ads.playground.xyz ( / )
+Name  : AWSALB
+Dates : 7/29/2020 1:40:29 PM -> 8/5/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: EEsOInMnpR8o9k9pc/nFZonl4aciBpV1LlGeh7tkJl7CajwSx3E45DU8vKSkhi/YIoZfIqV1wxJIoLKT0YSQZ4GxggdX7kk65Gj48Lvi4KjAXj3ucEqpzVn15Vl5
+
+Host  : ads.playground.xyz ( / )
+Name  : AWSALBCORS
+Dates : 7/29/2020 1:40:29 PM -> 8/5/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: EEsOInMnpR8o9k9pc/nFZonl4aciBpV1LlGeh7tkJl7CajwSx3E45DU8vKSkhi/YIoZfIqV1wxJIoLKT0YSQZ4GxggdX7kk65Gj48Lvi4KjAXj3ucEqpzVn15Vl5
+
+Host  : ads.playground.xyz ( / )
+Name  : connect.sid
+Dates : 7/29/2020 1:40:29 PM -> 10/27/2020 9:32:57 AM
+ * using BCrypt with AES-256-GCM
+Cookie: s%3AEYl7zjQGQPS5ywzoMGM_BUh6zSJ8Dguq.YB333w4rfu0Foxer9eDjcyu6FIO0C4fh6ngqKIGpiJs
+
+Host  : ads.stickyadstv.com ( / )
+Name  : UID
+Dates : 7/29/2020 1:40:29 PM -> 8/28/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: c08eb541e8d455c79892961ed06cc8b6
+
+Host  : ads.stickyadstv.com ( / )
+Name  : gdprApplicability
+Dates : 7/29/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: EMPTY_VALUE
+
+Host  : ads.stickyadstv.com ( / )
+Name  : gdprConsent
+Dates : 7/29/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: EMPTY_VALUE
+
+Host  : ads.stickyadstv.com ( / )
+Name  : sessionId
+Dates : 7/29/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1e11c44b2bd5e3ca66939386fe48a18e
+
+Host  : ads.stickyadstv.com ( / )
+Name  : uid-bp-159
+Dates : 7/29/2020 1:40:29 PM -> 9/27/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : ads.stickyadstv.com ( / )
+Name  : uid-bp-30833
+Dates : 7/29/2020 1:40:29 PM -> 8/12/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1
+
+Host  : beacon.walmart.com ( / )
+Name  : b30msc
+Dates : 7/29/2020 1:40:42 PM -> 7/29/2020 2:10:42 PM
+ * using BCrypt with AES-256-GCM
+Cookie: fZ4E2LwUbK-Xt3RB2fR7ug
+
+Host  : beacon.walmart.com ( / )
+Name  : bsc
+Dates : 7/29/2020 1:40:42 PM
+ * using BCrypt with AES-256-GCM
+Cookie: fZ4E2LwUbK-Xt3RB2fR7ug
+
+Host  : beacon.walmart.com ( / )
+Name  : btc
+Dates : 7/29/2020 1:40:42 PM -> 7/30/2030 1:40:42 AM
+ * using BCrypt with AES-256-GCM
+Cookie: fZ4E2LwUbK-Xt3RB2fR7ug
+
+Host  : bh.contextweb.com ( / )
+Name  : INGRESSCOOKIE
+Dates : 7/29/2020 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: c986591d06542acf
+
+Host  : cnsc.uit.edu.vn ( / )
+Name  : _Flag
+Dates : 7/29/2020 1:41:59 PM -> 12/1/2020 7:00:00 AM
+ * using BCrypt with AES-256-GCM
+Cookie: WannaGame{this_challenge_is_created_by_danhph}
+
+Host  : e.serverbid.com ( / )
+Name  : azk
+Dates : 7/29/2020 1:40:29 PM -> 7/29/2021 1:40:29 PM
+ * using BCrypt with AES-256-GCM
+Cookie: ue1-sb1-f36042a8-3459-43e8-8144-adafda0f8836
+
+Host  : kenh14.vn ( / )
+Name  : DLCheckLogin
+Dates : 7/29/2020 1:40:38 PM -> 8/28/2020 1:40:38 PM
+ * using BCrypt with AES-256-GCM
+Cookie:
+
+Host  : kenh14.vn ( / )
+Name  : __IP
+Dates : 7/29/2020 1:40:35 PM -> 7/24/2040 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 860861653
+
+Host  : kenh14.vn ( / )
+Name  : __M
+Dates : 7/29/2020 1:40:35 PM -> 7/29/2021 1:40:35 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 10_Windows%2010_%20_%20_14_84.0.4147.89__0
+
+Host  : kenh14.vn ( / )
+Name  : __NM
+Dates : 7/29/2020 1:40:35 PM -> 8/28/2020 1:40:35 PM
+ * using BCrypt with AES-256-GCM
+Cookie: -1
+
+Host  : kenh14.vn ( / )
+Name  : __R
+Dates : 7/29/2020 1:40:32 PM -> 7/24/2040 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : kenh14.vn ( / )
+Name  : __RC
+Dates : 7/29/2020 1:40:32 PM -> 7/24/2040 1:40:32 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 123
+
+Host  : kenh14.vn ( / )
+Name  : __UF
+Dates : 7/29/2020 1:40:37 PM -> 7/24/2040 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: -1
+
+Host  : kenh14.vn ( / )
+Name  : __create
+Dates : 7/29/2020 1:40:35 PM -> 7/30/2020 1:40:35 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004813
+
+Host  : kenh14.vn ( / )
+Name  : __tb
+Dates : 7/29/2020 1:40:36 PM -> 7/24/2040 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : kenh14.vn ( / )
+Name  : __uid
+Dates : 7/29/2020 1:40:35 PM -> 7/30/2020 1:40:35 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2496004813860861653
+
+Host  : kenh14.vn ( / )
+Name  : __uidac
+Dates : 7/29/2020 1:40:34 PM -> 7/30/2020 11:00:34 PM
+ * using BCrypt with AES-256-GCM
+Cookie: d962131dda0a5633b37edfbfe7e0febc
+
+Host  : kenh14.vn ( / )
+Name  : __uif
+Dates : 7/29/2020 1:40:37 PM -> 8/8/2020 1:40:37 PM
+ * using BCrypt with AES-256-GCM
+Cookie: __ui%3A-1%7C__uid%3A2496004813860861653%7C__create%3A1596004813
+
+Host  : kenh14.vn ( / )
+Name  : fg_guid
+Dates : 7/29/2020 1:40:36 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2496004813860861653
+
+Host  : kenh14.vn ( / )
+Name  : fg_lastModify
+Dates : 7/29/2020 1:40:36 PM -> 8/28/2020 1:40:36 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004836773
+
+Host  : kenh14.vn ( / )
+Name  : fg_uuid
+Dates : 7/29/2020 1:40:36 PM -> 8/28/2020 1:40:36 PM
+ * using BCrypt with AES-256-GCM
+Cookie: bc01775aab809f980b59c9f9227f480e
+
+Host  : kenh14.vn ( / )
+Name  : fg_version
+Dates : 7/29/2020 1:40:36 PM -> 8/28/2020 1:40:36 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 3
+
+Host  : kenh14.vn ( / )
+Name  : wurfljs_cache11
+Dates : 7/29/2020 1:40:34 PM -> 7/30/2020 1:40:34 PM
+ * using BCrypt with AES-256-GCM
+Cookie: %7B%22advertised_browser%22%3A%22Mobile%20Safari%22%2C%22advertised_browser_version%22%3A%2214.0%22%2C%22advertised_device_os%22%3A%22iOS%22%2C%22advertised_device_os_version%22%3A%2214.0%22%2C%22brand_name%22%3A%22Apple%22%2C%22complete_device_name%22%3A%22Apple%20iPhone%22%2C%22device_os%22%3A%22iOS%22%2C%22form_factor%22%3A%22Smartphone%22%2C%22is_app_webview%22%3Afalse%2C%22is_full_desktop%22%3Afalse%2C%22is_mobile%22%3Atrue%2C%22is_robot%22%3Afalse%2C%22is_smartphone%22%3Atrue%2C%22is_smarttv%22%3Afalse%2C%22is_tablet%22%3Afalse%2C%22manufacturer_name%22%3A%22%22%2C%22marketing_name%22%3A%22%22%2C%22max_image_height%22%3A568%2C%22max_image_width%22%3A320%2C%22model_name%22%3A%22iPhone%22%2C%22physical_screen_height%22%3A89%2C%22physical_screen_width%22%3A50%2C%22pointing_method%22%3A%22touchscreen%22%2C%22release_date%22%3A%222017_june%22%2C%22release_msrp%22%3A1150%2C%22resolution_height%22%3A1136%2C%22resolution_width%22%3A640%2C%22webp_lossless_support%22%3Atrue%2C%22webp_lossy_support%22%3Atrue%2C%22version%22%3A%2246256d2%22%7D
+
+Host  : mc.yandex.ru ( / )
+Name  : yabs-sid
+Dates : 7/29/2020 1:40:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 159523681596004799
+
+Host  : ntp.msn.com ( / )
+Name  : ShCLSessionID
+Dates : 7/29/2020 1:39:36 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004776737_0.09948451586954588
+
+Host  : ntp.msn.com ( / )
+Name  : msaoptout
+Dates : 7/29/2020 1:39:44 PM -> 7/30/2020 1:39:44 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 0
+
+Host  : ntp.msn.com ( / )
+Name  : sptmarket
+Dates : 7/29/2020 1:39:20 PM -> 7/29/2022 1:39:21 PM
+ * using BCrypt with AES-256-GCM
+Cookie: en||jp|en-us|en-us|en
+
+Host  : sync.aniview.com ( / )
+Name  : 2_C_1
+Dates : 7/29/2020 1:40:30 PM -> 8/8/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: B9DB3A1D-7DAF-4BC4-B268-C08C7CBA12CF
+
+Host  : usi-saas.vnexpress.net ( / )
+Name  : usi.saas
+Dates : 7/29/2020 1:40:15 PM -> 7/29/2020 2:10:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: s%3AqkPbTKFwoXAeNSLiBlqw3jqhkZ-YPgRg.l13x7UCRhQ5M9vfQPkvjeP1RHoMu37HJBPHIGF91qGo
+
+Host  : vnexpress.net ( / )
+Name  : GED_PLAYLIST_ACTIVITY
+Dates : 7/29/2020 1:40:30 PM
+ * using BCrypt with AES-256-GCM
+Cookie: W3sidSI6InBjeTkiLCJ0c2wiOjE1OTYwMDQ4MzEsIm52IjoxLCJ1cHQiOjE1OTYwMDQ4MjksImx0IjoxNTk2MDA0ODI5fV0.
+
+Host  : vnexpress.net ( / )
+Name  : _efr
+Dates : 7/29/2020 1:40:14 PM -> 7/29/2020 2:40:14 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 1596004740000
+
+Host  : vnexpress.net ( / )
+Name  : _tb_sess_r
+Dates : 7/29/2020 1:40:18 PM -> 7/29/2020 2:10:18 PM
+ * using BCrypt with AES-256-GCM
+Cookie: https%3A//vnexpress.net/
+
+Host  : vnexpress.net ( / )
+Name  : _tb_t_ppg
+Dates : 7/29/2020 1:40:23 PM -> 7/29/2020 2:10:23 PM
+ * using BCrypt with AES-256-GCM
+Cookie: https%3A//vnexpress.net/thu-tuong-dich-benh-lan-nay-phuc-tap-4137987.html
+
+Host  : vnexpress.net ( / )
+Name  : adAsiaUserIp
+Dates : 7/29/2020 1:40:17 PM -> 8/5/2020 1:40:17 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 51.79.180.213
+
+Host  : vnexpress.net ( / )
+Name  : trc_cookie_storage
+Dates : 7/29/2020 1:40:20 PM -> 7/29/2021 1:40:24 PM
+ * using BCrypt with AES-256-GCM
+Cookie: taboola%2520global%253Auser-id%3D2f159913-d173-47d1-999f-a72653a613e6-tuct61a9f31
+
+Host  : www.bing.com ( / )
+Name  : MUIDB
+Dates : 7/29/2020 1:39:41 PM -> 8/23/2021 1:39:41 PM
+ * using BCrypt with AES-256-GCM
+Cookie: 2813FDA6F17E6A362D99F2B0F0C96B6C
