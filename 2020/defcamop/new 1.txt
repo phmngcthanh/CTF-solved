@@ -1,0 +1,12 @@
+try:
+
+json_input = {"nonce": "LDfY/cZ8wOE=", "ciphertext": "TZIbF0dFEpOzXUQmvtCcfICQIkS46CGcWDSz59cReBW5ZgJlBjDxYT3SE/fVbjZHGTXFHpksvQowryhrMb+ri23njsch", "key": "RmlkZWxfQWxlamFuZHJvX0Nhc3Ryb19SdXpfQ3ViYSE="}
+b64 = json.loads(json_input)
+nonce = b64decode(b64['nonce'])
+key = b64decode(b64['key'])
+ciphertext = b64decode(b64['ciphertext'])
+cipher = ChaCha20.new(key=key, nonce=nonce)
+plaintext = cipher.decrypt(ciphertext)
+print("The message was " + plaintext)
+except ValueError, KeyError:
+print("Incorrect decryption")
